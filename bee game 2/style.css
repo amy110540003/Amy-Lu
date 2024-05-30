@@ -1,0 +1,92 @@
+
+#app{
+    position: absolute;
+    width: 1000px;
+    height: 562px;
+}
+
+#bee{
+    position: absolute;
+    width: 40px;
+    left: 10px;
+    top:50%;
+}
+
+#dragonfly{
+    position: absolute;
+    width:120px;
+    left: 20%;
+    top: 69%;
+}
+#scallion{
+    position: absolute;
+    width: 100px;
+    left: 30%;
+    top: 50%;
+}
+#garlic{
+    position: absolute;
+    width: 60px;
+    left: 40%;
+    top: 70%;
+}
+#berry{
+    position: absolute;
+    width: 80px;
+    left: 30%;
+    top: 10%;
+}
+#flower1{
+    position: absolute;
+    width: 60px;
+    left: 60%;
+    top: 40%;      
+}
+#ok1{
+    position: absolute;
+    width: 60px;
+    left: 60%;
+    top: 40%;
+    visibility: hidden;
+}
+#flower2{
+    position: absolute;
+    width: 30px;
+    left: 20%;
+    top: 10%;
+}
+#ok2{
+    position: absolute;
+    width: 30px;
+    left: 20%;
+    top: 10%;
+    visibility: hidden;
+}
+#arrowUp{
+    position: absolute;
+    width: 100px;
+    left: 20px;
+    bottom: 1%;
+    transform: rotate(-90deg);
+}
+
+#arrowDown{
+    position: absolute;
+    width: 100px;
+    left: 140px;
+    bottom: 1%;
+    transform: rotate(90deg);
+}
+#arrowLeft{
+    position: absolute;
+    width: 100px;
+    left: 260px;
+    bottom: 1%;
+    transform: rotate(180deg);
+}
+#arrowRight{
+    position: absolute;
+    width: 100px;
+    left: 380px;
+    bottom: 1%;
+}
